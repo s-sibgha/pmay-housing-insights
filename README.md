@@ -49,10 +49,11 @@ This project focuses on showcasing analytical thinking and insights.**
 
 
 ---
+
 ## 📁 Repository Structure
 
-
-pmay-housing-analysis/
+```
+pmay-housing-insights/
 │
 ├── README.md
 ├── outputs/
@@ -63,6 +64,7 @@ pmay-housing-analysis/
 ├── docs/
 │ └── methodology.txt
 
+```
 
 ---
 
