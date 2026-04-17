@@ -1,0 +1,28 @@
+METHODOLOGY OVERVIEW
+
+1. Data Preparation:
+
+* Cleaned dataset and handled inconsistencies
+* Removed aggregated entries to avoid bias
+
+2. Data Transformation:
+
+* Applied normalization techniques to ensure fair comparison
+
+3. Analytical Strategy:
+
+* Designed custom performance indicators
+* Focused on identifying trends and inefficiencies
+
+4. Visualization:
+
+* Used statistical plots to explore patterns and outliers
+* Compared performance across different entities
+
+5. Insight Generation:
+
+* Analyzed variation in performance
+* Evaluated efficiency and gaps in implementation
+
+Note:
+Detailed formulas, calculations, and code logic are not included in this repository.
